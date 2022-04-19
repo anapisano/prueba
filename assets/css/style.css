@@ -1,0 +1,12 @@
+.h1{
+    font-size: oblique;
+    font-weight: 600;
+    font-family: arial;
+    text-align: center;
+    text-decoration: overline;
+}
+.contenedor{
+    height: 300px;
+    background-color: aquamarine;
+    
+}
